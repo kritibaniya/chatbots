@@ -10,4 +10,4 @@ Extra:
 1) IP: Your local ipv4
 2) Port: 7568
 
-See how it works with pictures [here](chatbots/Chatbot.pdf)
+See how it works with pictures [here](Chatbot.pdf)
